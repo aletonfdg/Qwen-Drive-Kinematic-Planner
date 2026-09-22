@@ -79,7 +79,7 @@ ADE is averaged over the full 0-5.0 s horizon (50 steps). FDE is computed only a
 
 | Result 1 | Result 2 | Result 3 |
 |---|---|---|
-| ![Result 1](assets/result1.png) | ![Result 2](assets/result2.png) | ![Result 3]assets/(result3.png) |
+| ![Result 1](assets/result1.png) | ![Result 2](assets/result2.png) | ![Result 3](assets/result3.png) |
 
 ![Simulation](assets/simulation.gif)
 
